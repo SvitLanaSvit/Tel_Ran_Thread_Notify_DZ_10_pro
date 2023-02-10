@@ -1,3 +1,5 @@
+package thread;
+
 public class WaitNotify {
     public static void main(String[] args) {
         MarketDZ market = new MarketDZ();
